@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vasusaini701.github.io/interview-answer-generator/sitemap.xml
